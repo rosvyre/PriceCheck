@@ -1,0 +1,7 @@
+Stores:
+  - StoreNum: 181
+    StoreLocation: Denver
+    StoreTax: 0.0849
+  - StoreNum: 101
+    StoreLocation: Tustin
+    StoreTax: 0.0900
