@@ -23,5 +23,58 @@ Categories:
       - ["MSI RTX 3060 Ti Gaming X", 303883 ]
       - ["ASUS Strix RTX 3060 Ti", 310913 ]
       - ["MSI RTX 3060 Ti Ventus 3x", 304592 ]
+  - Category: "3070"
+    StockNumbers: 
+      - ["EVGA 3070 XC3 Black", 195925 ]
+      - ["Gigabyte 3070 Gaming OC", 299172 ]
+      - ["ASUS 3070 Dual", 310185 ]
+      - ["EVGA 3070 FTW3 Ultra", 291567 ]
+      - ["MSI 3070 Ventus 2X", 311027 ]
+      - ["ASUS 3070 TUF", 294983 ]
+      - ["ASUS 3070 ROG Strix", 295014 ]
+      - ["Gigabyte 3070 Aorus Master", 303826 ]
+      - ["MSI 3070 Gaming X Trio", 193243 ]
+      - ["MSI 3070 Gaming Z Trio", 301291 ]
+      - ["ASUS 3070 ROG Strix White", 319194 ]
+  - Category: "3070 Ti"
+    StockNumbers:
+      - ["EVGA 3070 Ti FTW3 Ultra", 287342 ]
+      - ["Gigabyte 3070 Ti Gaming OC", 287243 ]
+      - ["MSI 3070 Ti Ventux 3X OC", 287029 ]
+      - ["ASUS 3070 Ti TUF", 283176 ]
+      - ["MSI 3070 Ti Gaming X Trio", 287011 ]
+      - ["Gigabyte 3070 Ti Aorus Master", 287250 ]
+      - ["ASUS 3070 Ti ROG Strix", 283184 ]
+  - Category: "3080"
+    StockNumbers:
+      - ["EVGA 3080 XC3 Ultra", 173047 ]
+      - ["Zotac 3080 Trinity", 311035 ]
+      - ["EVGA 3080 FTW3 Ultra", 294058 ]
+      - ["ASUS 3080 ROG Strix", 307330 ]
+      - ["MSI 3080 Ventus 3X OC", 172973 ]
+      - ["Gigabyte 3080 Xtreme OC", 300525 ]
+      - ["MSI 3080 Gaming Z Trio", 298505 ]
+      - ["ASUS 3080 ROG Strix White", 307348 ]
+  - Category: "3080 Ti"
+    StockNumbers:
+      - ["Gigabyte 3080 Ti Eagle", 307306 ]
+      - ["EVGA 3080 Ti FTW3", 283739 ]
+      - ["Gigabyte 3080 Ti Gaming OC", 284331 ]
+      - ["Gigabyte 3080 Ti Vision", 284349 ]
+      - ["Gigabyte 3080 Ti Aorus Master", 299115 ]
+      - ["MSI 3080 Ti Ventus 3X OC", 283721 ]
+      - ["Zotac 3080 Ti Amp Holo", 286245 ]
+      - ["ASUS 3080 Ti TUF", 279877 ]
+      - ["ASUS 3080 Ti ROG Strix", 279869 ]
+  - Category: "3090"
+    StockNumbers:
+      - ["EVGA 3090 FTW3 Ultra", 177923 ]
+      - ["Gigabyte 3090 Gaming OC", 174151 ]
+      - ["ASUS 3090 TUF", 173120 ]
+      - ["Gigabyte 3090 Vision", 210864 ]
+      - ["ASUS 3090 Strix", 177071 ]
+      - ["MSI 3090 Ventus 3X OC", 172999 ]
+      - ["MSI 3090 Gaming X Trio", 173005 ]
+      - ["ASUS 3090 ROG Strix White", 213793 ]
 
 
