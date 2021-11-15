@@ -1,10 +1,27 @@
 Categories:
   - Category: "3060"
     StockNumbers: 
-      - ["EVGA GeForce RTX 3090 FTW3", 177923]
-      - ["EVGA GeForce RTX 3090 FTW3", 177923]
+      - ["EVGA RTX 3060 XC", 240093 ]
+      - ["Gigabyte RTX 3060 ", 287714 ]
+      - ["ASUS RTX 3060 Dual V2", 295071 ]
+      - ["ASUS RXT 3060 Phoenix V2", 307322 ]
+      - ["MSI RTX 3060 Ventus 2x", 234848 ]
+      - ["ASUS TUF RTX 3060 V2", 294991 ]
+      - ["MSI RTX 3060 Ventus 3x", 234856 ]
+      - ["ASUS Strix 3060", 233940 ]
+      - ["ASUS Strix 3060 V2", 295022 ]
   - Category: "3060 Ti"
     StockNumbers: 
-      - ["EVGA GeForce RTX 3090 FTW3", 177923]
-      - ["EVGA GeForce RTX 3090 FTW3", 177923]
+      - ["EVGA 3060 Ti XC", 291583 ]
+      - ["EVGA 3060 Ti FTW3 Ultra", 297275 ]
+      - ["ASUS RTX 3060 Ti Dual", 295063 ]
+      - ["Gigabyte RTX 3060 Ti", 309930 ]
+      - ["ASUS RTX 3060 Ti KO LHR", 310201 ]
+      - ["Gigabyte RTX 3060 Ti Aorus", 309435 ]
+      - ["ASUS TUF RTX 3060 Ti", 295030 ]
+      - ["MSI RTX 3060 Ti Ventus 2x", 297143 ]
+      - ["MSI RTX 3060 Ti Gaming X", 303883 ]
+      - ["ASUS Strix RTX 3060 Ti", 310913 ]
+      - ["MSI RTX 3060 Ti Ventus 3x", 304592 ]
+
 
