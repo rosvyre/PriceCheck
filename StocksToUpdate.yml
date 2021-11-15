@@ -5,7 +5,7 @@ Categories:
       - ["Gigabyte RTX 3060 ", 287714 ]
       - ["ASUS RTX 3060 Dual V2", 295071 ]
       - ["ASUS RXT 3060 Phoenix V2", 307322 ]
-      - ["MSI RTX 3060 Ventus 2x", 234848 ]
+      - ["MSI RTX 3060 Ventus 2x", 234849 ]
       - ["ASUS TUF RTX 3060 V2", 294991 ]
       - ["MSI RTX 3060 Ventus 3x", 234856 ]
       - ["ASUS Strix 3060", 233940 ]
@@ -21,7 +21,7 @@ Categories:
       - ["ASUS TUF RTX 3060 Ti", 295030 ]
       - ["MSI RTX 3060 Ti Ventus 2x", 297143 ]
       - ["MSI RTX 3060 Ti Gaming X", 303883 ]
-      - ["ASUS Strix RTX 3060 Ti", 310913 ]
+      - ["ASUS Strix RTX 3060 Ti", 310193 ]
       - ["MSI RTX 3060 Ti Ventus 3x", 304592 ]
   - Category: "3070"
     StockNumbers: 
