@@ -1,9 +1,10 @@
 Categories:
-  Category: "3060"
-  StockNumbers: 
-    - 303826
-    - 303826
-  Category: "3060 Ti"
-  StockNumbers: 
-    - 303826
-    - 303826
+  - Category: "3060"
+    StockNumbers: 
+      - 303826
+      - 303826
+  - Category: "3060 Ti"
+    StockNumbers: 
+      - 303826
+      - 303826
+
