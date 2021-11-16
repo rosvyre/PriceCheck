@@ -37,7 +37,7 @@ Stores:
     StoreTax: 0.07525
   - StoreNum: 095
     StoreLocation: "Brentwood"
-    StoreTax: 0.09738
+    StoreTax: 0.10738
   - StoreNum: 075
     StoreLocation: "North Jersey/Paterson"
     StoreTax: 0.066
