@@ -1,6 +1,6 @@
 Categories:
  - Category: "Nvidia RTX 3060"
-    Color: "#36940a"
+    Color: 0x36940a
     Image: "https://raw.githubusercontent.com/UMCFS/PriceCheck/main/nvidia-rtx.png"
     StockNumbers: 
       - ["EVGA RTX 3060 XC", 240093 ]
@@ -13,7 +13,7 @@ Categories:
       - ["ASUS Strix 3060", 233940 ]
       - ["ASUS Strix 3060 V2", 295022 ]
   - Category: "Nvidia RTX 3060 Ti"
-    Color: "#36940a"
+    Color: 0x36940a
     Image: "https://raw.githubusercontent.com/UMCFS/PriceCheck/main/nvidia-rtx.png"
     StockNumbers: 
       - ["EVGA 3060 Ti XC", 291583 ]
@@ -28,7 +28,7 @@ Categories:
       - ["ASUS Strix RTX 3060 Ti", 310193 ]
       - ["MSI RTX 3060 Ti Ventus 3x", 304592 ]
   - Category: "Nvidia RTX 3070"
-    Color: "#36940a"
+    Color: 0x36940a
     Image: "https://raw.githubusercontent.com/UMCFS/PriceCheck/main/nvidia-rtx.png"
     StockNumbers: 
       - ["EVGA 3070 XC3 Black", 195925 ]
@@ -43,7 +43,7 @@ Categories:
       - ["MSI 3070 Gaming Z Trio", 301291 ]
       - ["ASUS 3070 ROG Strix White", 319194 ]
   - Category: "3070 Ti"
-    Color: "#36940a"
+    Color: 0x36940a
     Image: "https://raw.githubusercontent.com/UMCFS/PriceCheck/main/nvidia-rtx.png"
     StockNumbers:
       - ["EVGA 3070 Ti FTW3 Ultra", 287342 ]
@@ -54,7 +54,7 @@ Categories:
       - ["Gigabyte 3070 Ti Aorus Master", 287250 ]
       - ["ASUS 3070 Ti ROG Strix", 283184 ]
   - Category: "Nvidia RTX 3080"
-    Color: "#36940a"
+    Color: 0x36940a
     Image: "https://raw.githubusercontent.com/UMCFS/PriceCheck/main/nvidia-rtx.png"
     StockNumbers:
       - ["EVGA 3080 XC3 Ultra", 173047 ]
@@ -66,7 +66,7 @@ Categories:
       - ["MSI 3080 Gaming Z Trio", 298505 ]
       - ["ASUS 3080 ROG Strix White", 307348 ]
   - Category: "Nvidia RTX 3080 Ti"
-    Color: "#36940a"
+    Color: 0x36940a
     Image: "https://raw.githubusercontent.com/UMCFS/PriceCheck/main/nvidia-rtx.png"
     StockNumbers:
       - ["Gigabyte 3080 Ti Eagle", 307306 ]
@@ -79,7 +79,7 @@ Categories:
       - ["ASUS 3080 Ti TUF", 279877 ]
       - ["ASUS 3080 Ti ROG Strix", 279869 ]
   - Category: "Nvidia RTX 3090"
-    Color: "#36940a"
+    Color: 0x36940a
     Image: "https://raw.githubusercontent.com/UMCFS/PriceCheck/main/nvidia-rtx.png"
     StockNumbers:
       - ["EVGA 3090 FTW3 Ultra", 177923 ]
@@ -91,14 +91,14 @@ Categories:
       - ["MSI 3090 Gaming X Trio", 173005 ]
       - ["ASUS 3090 ROG Strix White", 213793 ]
   - Category: "Intel Core Alder Lake 12th Gen"
-    Color: "#2052b0"
+    Color: 0x2052b0
     Image: "https://raw.githubusercontent.com/UMCFS/PriceCheck/main/intel-logo.png"
     StockNumbers:
       - ["Intel Core i5-12600K", 326678 ]
       - ["Intel Core i7-12700K", 326652 ]
       - ["Intel Core i9-12900K", 326694 ]
   - Category: "DDR5 RAM"
-    Color: "#7556b3"
+    Color: 0x7556b3
     Image: "https://raw.githubusercontent.com/UMCFS/PriceCheck/main/DDR5.png"
     StockNumbers:
       - ["Corsair Dominator Platinum RGB 32GB DDR5-5200", 343459 ]
