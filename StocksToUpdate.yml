@@ -101,7 +101,7 @@ Categories:
     Color: "0x7556b3"
     Image: "https://raw.githubusercontent.com/UMCFS/PriceCheck/main/DDR5.png"
     StockNumbers:
-      - ["Corsair Dominator Platinum RGB 32GB DDR5-5200", 343459 ]
+      - ["Corsair Dominator RGB 32GB DDR5-5200", 343459 ]
       - ["TeamGroup Elite 32GB DDR5-4800", 295303 ]
       - ["G.Skill Trident Z5 32GB DDR5-5600", 354183 ]
       - ["G.Skill Trident Z5 RGB 32GB DDR5-5600 ", 354266 ]
