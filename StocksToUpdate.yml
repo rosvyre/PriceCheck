@@ -118,6 +118,86 @@ Categories:
       - ["G.Skill Trident Z5 32GB DDR5-5600", 354209 ]
       - ["G.Skill Trident Z5 RGB 32GB DDR5-5600", 354258 ]
       - ["Corsair Dominator RGB 32GB DDR5-5200", 343459 ]
+  - Category: "AMD Radeon RX 6600 Series"
+    Color: "0xde5b1f"
+    Image: "https://raw.githubusercontent.com/UMCFS/PriceCheck/main/radeon.png"
+    StockNumbers:
+      - ["ASUS 6600 Dual", 338418 ]
+      - ["PowerColor 6600 Hellhound", 331744 ]
+      - ["MSI 6600 MECH 2X", 339291 ]
+      - ["Sapphire 6600 Pulse", 331942 ]
+      - ["PowerColor 6600 Fighter", 332130 ]
+      - ["Gigabyte 6600 Eagle", 339549 ]
+  - Category: "AMD Radeon RX 6600 XT Series"
+    Color: "0xde5b1f"
+    Image: "https://raw.githubusercontent.com/UMCFS/PriceCheck/main/radeon.png"
+    StockNumbers:
+      - ["PowerColor RX 6600 XT Red Devil", 309641 ]
+      - ["Sapphire 6600 XT Pulse", 308338 ]
+      - ["ASUS 6600 XT ROG Strix", 308353 ]
+      - ["ASUS RX 6600 XT Dual", 308361 ]
+      - ["MSI 6600 XT Gaming X TRIO", 308312 ]
+      - ["PowerColor 6600 XT Hellhound", 306472 ]
+      - ["Gigabyte 6600 XT Gaming Pro", 311910 ]
+      - ["Sapphire 6600 XT Nitro Plus", 308320 ]
+      - ["PowerColor 6600 XT Fighter", 309443 ]
+  - Category: "AMD Radeon RX 6700 XT Series"
+    Color: "0xde5b1f"
+    Image: "https://raw.githubusercontent.com/UMCFS/PriceCheck/main/radeon.png"
+    StockNumbers:
+      - ["PowerColor 6700 XT Red Devil", 247882 ]
+      - ["ASUS 6700 XT Dual Overclocked", 341073 ]
+      - ["PowerColor 6700 XT Hellhound Spectral White", 280016 ]
+      - ["ASUS 6700 XT TUF", 248781 ]
+      - ["PowerColor 6700 XT Hellhound", 247932 ]
+      - ["ASUS 6700 XT Dual", 248773 ]
+      - ["MSI 6700 XT Gaming X TRIO", 250043 ]
+      - ["MSI 6700 XT MECH 2X", 250027 ]
+      - ["PowerColor 6700 XT Fighter", 247940 ]
+      - ["ASUS 6700 XT ROG Strix", 249276 ]
+      - ["ASRock 6700 XT Challenger D", 295618 ]
+      - ["Gigabyte 6700 XT Gaming", 255364 ]
+      - ["Sapphire RX 6700 XT Nitro Plus", 250050 ]
+      - ["Gigabyte 6700 XT Eagle", 255380 ]
+      - ["MSI 6700 XT MECH 2X", 250035 ]
+  - Category: "AMD Radeon RX 6800 Series"
+    Color: "0xde5b1f"
+    Image: "https://raw.githubusercontent.com/UMCFS/PriceCheck/main/radeon.png"
+    StockNumbers:
+      - ["PowerColor 6800 Red Dragon", 217679 ]
+      - ["MSI 6800 GAMING X TRIO", 220517 ]
+      - ["ASUS 6800 TUF Gaming", 210344 ]
+      - ["Sapphire 6800 Nitro Plus", 213181 ]
+  - Category: "AMD Radeon RX 6800 XT Series"
+    Color: "0xde5b1f"
+    Image: "https://raw.githubusercontent.com/UMCFS/PriceCheck/main/radeon.png"
+    StockNumbers:
+      - ["PowerColor 6800 XT AXRX", 217653 ]
+      - ["Sapphire RX 6800 XT PULSE", 353664 ]
+      - ["MSI 6800 XT GAMING X TRIO", 220525 ]
+      - ["PowerColor 6800 XT Red Devil", 228130 ]
+      - ["PowerColor 6800 XT Liquid Devil", 239202 ]
+      - ["Gigabyte 6800 XT Gaming", 213710 ]
+      - ["ASUS 6800 XT TUF Gaming", 210351 ]
+  - Category: "AMD Radeon RX 6900 XT Series"
+    Color: "0xde5b1f"
+    Image: "https://raw.githubusercontent.com/UMCFS/PriceCheck/main/radeon.png"
+    StockNumbers:
+      - ["PowerColor 6900 XT Red Devil", 221085 ]
+      - ["PowerColor 6900 XT Ultimate Red Devil", 264374 ]
+      - ["Sapphire 6900 XT Nitro", 220053 ]
+      - ["ASUS 6900 XT TUF Gaming", 217331 ]
+      - ["Sapphire 6900 XT Toxic Gaming Limited Edition", 324061 ]
+      - ["ASUS 6900 XT ROG Strix LC", 291849 ]
+      - ["PowerColor 6900 XT Liquid Devil", 239616 ]
+      - ["MSI 6900 XT Gaming X Trio", 239541 ]
+      - ["PowerColor 6900 XT Liquid Devil Ultimate", 264366 ]
+      - ["Sapphire 6900 XT Nitro Plus", 268482 ]
+      - ["MSI 6900 XT Gaming Z Trio", 332114 ]
+      - ["ASRock 6900 XT Formula", 282228 ]
+      - ["Sapphire 6900 XT Toxic", 269720 ]
+      - ["Gigabyte 6900 XT AORUS Master", 278903 ]
+      - ["Gigabyte 6900 XT Gaming", 276071 ]
   - Category: "AMD Ryzen 5000 Series"
     Color: "0xde5b1f"
     Image: "https://raw.githubusercontent.com/UMCFS/PriceCheck/main/ryzen.png"
