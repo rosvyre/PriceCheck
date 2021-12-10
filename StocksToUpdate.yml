@@ -110,14 +110,28 @@ Categories:
     Color: "0x7556b3"
     Image: "https://raw.githubusercontent.com/UMCFS/PriceCheck/main/DDR5.png"
     StockNumbers:
-      - ["Crucial 16GB DDR5-4800", 343400]
-      - ["Crucial 32GB (2 x 16GB) DDR5-4800", 343434]
-      - ["TeamGroup Elite 32GB DDR5-4800", 295303 ]
-      - ["G.Skill Trident Z5 32GB DDR5-5600", 354183 ]
-      - ["G.Skill Trident Z5 RGB 32GB DDR5-5600 ", 354266 ]
-      - ["G.Skill Trident Z5 32GB DDR5-5600", 354209 ]
-      - ["G.Skill Trident Z5 RGB 32GB DDR5-5600", 354258 ]
-      - ["Corsair Dominator RGB 32GB DDR5-5200", 343459 ]
+      - ["Crucial 16GB DDR5-4800", 343400 ]
+      - ["Crucial 32GB DDR5-4800", 343418 ]
+      - ["HyperX FURY Beast 32GB 2x16GB DDR5-4800", 343772 ]
+      - ["HyperX FURY Beast 32GB 2x16GB DDR5-5200", 343764 ]
+      - ["G.Skill Trident Z5 32GB 2x16GB DDR5-5600 - White", 354225 ]
+      - ["G.Skill Trident Z5 32GB 2x16GB DDR5-5600 CL40 - Black", 354241 ]
+      - ["G.Skill Trident Z5 32GB 2x16GB DDR5-5600 CL36 - Black", 354209 ]
+      - ["G.Skill Trident Z5 32GB DDR5-5600 - White", 354183 ]
+      - ["G.Skill Trident Z5 RGB 32GB 2x16GB DDR5-5600 CL40 - Black", 354266 ]
+      - ["G.Skill Trident Z5 RGB 32GB 2x16GB DDR5-5600 CL40 - White", 354258 ]
+      - ["G.Skill Trident Z5 RGB 32GB 2x16GB DDR5-5600 CL36 - White", 354175 ]
+      - ["G.Skill Trident Z5 RGB 32GB 2x16GB DDR5-5600 CL36 - Black", 355149 ]
+      - ["G.Skill Trident Z5 RGB 32GB 2x16GB DDR5-6000 CL40 - White", 359661 ]
+      - ["G.Skill Trident Z5 32GB 2x16GB DDR5-6000 CL40 - White", 361766 ]
+      - ["G.Skill Trident Z5 RGB 32GB 2x16GB DDR5-6000 CL40 - Black", 359679 ]
+      - ["G.Skill Trident Z5 32GB 2x16GB DDR5-6000 CL40 - Black", 362079 ]
+      - ["G.Skill Trident Z5 32GB 2x16GB DDR5-6000 CL36 - Black", 361782 ]
+      - ["G.Skill Trident Z5 32GB 2x16GB DDR5-6000 CL36 - White", 361774 ]
+      - ["G.Skill Trident Z5 RGB 32GB 2x16GB DDR5-6000 CL36 - White", 359687 ]
+      - ["G.Skill Trident Z5 RGB 32GB 2x16GB DDR5-6000 CL36 - Black", 359703 ]
+      - ["Corsair Dominator Platinum RGB 32GB 2x16GB DDR5-5200 CL38 - Black", 343459 ]
+      - ["Crucial 64GB 2x32GB DDR5-4800 CL40 - Black", 343442 ]
   - Category: "AMD Radeon RX 6600 Series"
     Color: "0xde5b1f"
     Image: "https://raw.githubusercontent.com/UMCFS/PriceCheck/main/radeon.png"
