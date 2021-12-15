@@ -106,13 +106,18 @@ Categories:
       - ["Intel Core i5-12600K", 326678 ]
       - ["Intel Core i7-12700K", 326652 ]
       - ["Intel Core i9-12900K", 326694 ]
-  - Category: "DDR5 RAM 4800-5600"
+  - Category: "DDR5 RAM 4800"
     Color: "0x7556b3"
     Image: "https://raw.githubusercontent.com/UMCFS/PriceCheck/main/DDR5.png"
     StockNumbers:
       - ["Crucial 16GB 4800", 343400 ]
       - ["Crucial 32GB 4800", 343418 ]
       - ["HyperX 32GB 2x16GB 4800", 343772 ]
+      - ["Crucial 64GB 2x32GB 4800 CL40 Black", 343442 ]
+  - Category: "DDR5 RAM 5200~5800"
+    Color: "0x7556b3"
+    Image: "https://raw.githubusercontent.com/UMCFS/PriceCheck/main/DDR5.png"
+    StockNumbers:
       - ["HyperX 32GB 2x16GB 5200", 343764 ]
       - ["G.Skill 32GB 2x16GB 5600 White", 354225 ]
       - ["G.Skill 32GB 2x16GB 5600 CL40 Black", 354241 ]
@@ -123,7 +128,6 @@ Categories:
       - ["G.Skill RGB 32GB 2x16GB 5600 CL36 White", 354175 ]
       - ["G.Skill RGB 32GB 2x16GB 5600 CL36 Black", 355149 ]
       - ["Corsair Dominator Platinum RGB 32GB 2x16GB 5200 CL38 Black", 343459 ]
-      - ["Crucial 64GB 2x32GB 4800 CL40 Black", 343442 ]
   - Category: "DDR5 RAM 6000+"
     Color: "0x7556b3"
     Image: "https://raw.githubusercontent.com/UMCFS/PriceCheck/main/DDR5.png"
