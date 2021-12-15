@@ -175,6 +175,10 @@ Categories:
       - ["ASUS 6700 XT Dual", 248773 ]
       - ["MSI 6700 XT Gaming X TRIO", 250043 ]
       - ["MSI 6700 XT MECH 2X", 250027 ]
+  - Category: "AMD Radeon RX 6700 XT Series Cont..."
+    Color: "0xde5b1f"
+    Image: "https://raw.githubusercontent.com/UMCFS/PriceCheck/main/radeon.png"
+    StockNumbers:
       - ["PowerColor 6700 XT Fighter", 247940 ]
       - ["ASUS 6700 XT ROG Strix", 249276 ]
       - ["ASRock 6700 XT Challenger D", 295618 ]
@@ -213,6 +217,10 @@ Categories:
       - ["ASUS 6900 XT ROG Strix LC", 291849 ]
       - ["PowerColor 6900 XT Liquid Devil", 239616 ]
       - ["MSI 6900 XT Gaming X Trio", 239541 ]
+  - Category: "AMD Radeon RX 6900 XT Series Cont..."
+    Color: "0xde5b1f"
+    Image: "https://raw.githubusercontent.com/UMCFS/PriceCheck/main/radeon.png"
+    StockNumbers:
       - ["PowerColor 6900 XT Liquid Devil Ultimate", 264366 ]
       - ["Sapphire 6900 XT Nitro Plus", 268482 ]
       - ["MSI 6900 XT Gaming Z Trio", 332114 ]
