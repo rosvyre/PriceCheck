@@ -104,6 +104,7 @@ Categories:
     Color: "0x2052b0"
     Image: "https://raw.githubusercontent.com/UMCFS/PriceCheck/main/intel-logo.png"
     StockNumbers:
+      - ["Intel Core i5-12400", 362020 ]
       - ["Intel Core i5-12600K", 326678 ]
       - ["Intel Core i7-12700K", 326652 ]
       - ["Intel Core i9-12900K", 326694 ]
