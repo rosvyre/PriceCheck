@@ -149,6 +149,23 @@ Categories:
       - ["G.Skill 32GB 2x16GB 6000 CL36 White", 361774 ]
       - ["G.Skill RGB 32GB 2x16GB 6000 CL36 White", 359687 ]
       - ["G.Skill RGB 32GB 2x16GB 6000 CL36 Black", 359703 ]
+  - Category: "DDR5 RAM 5200~5800 : GSkill J Models"
+    Color: "0x7556b3"
+    Image: "https://raw.githubusercontent.com/UMCFS/PriceCheck/main/DDR5.png"
+    StockNumbers:
+      - ["G.Skill 32GB 2x16GB 5600 CL36 White", 371906 ]
+      - ["G.Skill 32GB 2x16GB 5600 CL36 Black", 371419 ]
+  - Category: "DDR5 RAM 6000+ : GSkill J Models"
+    Color: "0x7556b3"
+    Image: "https://raw.githubusercontent.com/UMCFS/PriceCheck/main/DDR5.png"
+    StockNumbers:
+      - ["G.Skill 32GB 2x16GB 6000 CL40 White", 361766 ]
+      - ["G.Skill 32GB 2x16GB 6000 CL40 Black", 371815 ]
+      - ["G.Skill RGB 32GB 2x16GB 6000 CL40 White", 371831 ]
+      - ["G.Skill RGB 32GB 2x16GB 6000 CL40 Black", 371856 ]
+      - ["G.Skill 32GB 2x16GB 6000 CL36 Black", 371872 ]
+      - ["G.Skill 32GB 2x16GB 6000 CL36 White", 371864 ]
+      - ["G.Skill RGB 32GB 2x16GB 6000 CL36 Black", 371880 ]
   - Category: "AMD Radeon RX 6600 Series"
     Color: "0xde5b1f"
     Image: "https://raw.githubusercontent.com/UMCFS/PriceCheck/main/radeon.png"
