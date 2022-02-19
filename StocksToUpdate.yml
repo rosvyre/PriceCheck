@@ -1,4 +1,13 @@
 Categories:
+  - Category: "Nvidia RTX 3050"
+    Color: "0x36940a"
+    Image: "https://raw.githubusercontent.com/UMCFS/PriceCheck/main/nvidia-rtx.png"
+    StockNumbers: 
+      - ["EVGA RTX 3050 XC Black", 375675 ]
+      - ["EVGA RTX 3050 XC Gaming", 373134 ]
+      - ["Gigabyte RTX 3060", 373142 ]
+      - ["ASUS RTX 3060 Dual", 373498 ]
+      - ["ASUS Strix 3060", 373480 ]
   - Category: "Nvidia RTX 3060"
     Color: "0x36940a"
     Image: "https://raw.githubusercontent.com/UMCFS/PriceCheck/main/nvidia-rtx.png"
