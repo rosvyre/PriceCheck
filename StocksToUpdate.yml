@@ -44,7 +44,7 @@ Categories:
     Image: "https://raw.githubusercontent.com/UMCFS/PriceCheck/main/nvidia-rtx.png"
     StockNumbers: 
       - ["ASUS RTX 3070 Dual LHR", 310185 ]
-      - ["ASUS RTX 3070 KO V2 LHR", 307314 ]]
+      - ["ASUS RTX 3070 KO V2 LHR", 307314 ]
       - ["ASUS RTX 3070 ROG Strix V2", 295014 ]
       - ["EVGA RTX 3070 FTW3 Ultra Gaming", 291567 ]
       - ["Gigabyte RTX 3070 Gaming LHR", 299172 ]
@@ -264,4 +264,3 @@ Categories:
       - ["AMD Ryzen 7 5800X", 195081 ]
       - ["AMD Ryzen 9 5900X", 195099 ]
       - ["AMD Ryzen 9 5950X", 195107 ]
-
