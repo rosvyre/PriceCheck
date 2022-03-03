@@ -29,6 +29,7 @@ Categories:
     Color: "0x36940a"
     Image: "https://raw.githubusercontent.com/UMCFS/PriceCheck/main/nvidia-rtx.png"
     StockNumbers:
+      - ["ASUS RTX 3060 Ti Dual V2", 295063 ]
       - ["ASUS RTX 3060 Ti KO LHR", 310201 ]
       - ["ASUS RTX 3060 Ti TUF Gaming V2", 295030 ]
       - ["ASUS RTX 3060 Ti ROG Strix LHR", 310193 ]
