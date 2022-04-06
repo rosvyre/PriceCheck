@@ -108,6 +108,12 @@ Categories:
       - ["Gigabyte RTX 3090 Vision", 210864 ]
       - ["MSI RTX 3090 Gaming X Trio", 173005 ]
       - ["MSI RTX 3090 Ventus 3X OC", 172999 ]
+  - Category: "Nvidia RTX 3090 Ti"
+    Color: "0x36940a"
+    Image: "https://raw.githubusercontent.com/UMCFS/PriceCheck/main/nvidia-rtx.png"
+    StockNumbers:
+      - ["EVGA RTX 3090 Ti FTW3 Ultra Gaming", 391938 ]
+      - ["EVGA RTX 3090 Ti FTW3 Black Gaming", 391946 ]
   - Category: "Intel Core Alder Lake 12th Gen"
     Color: "0x2052b0"
     Image: "https://raw.githubusercontent.com/UMCFS/PriceCheck/main/intel-logo.png"
